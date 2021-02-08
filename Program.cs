@@ -1,13 +1,3 @@
-﻿/***********************************************************************************************                                     
- * Programmname:    NumberExtractor
- * Autor:           Michael Bucek                             
- * ------------------------------------------------ 
- * Kurzbeschreibung:      
- * Es soll ein Text bestehend aus beliebigen Zeichen eingelesen werden. Alle im Text enthaltenen
- * Ziffern sollen zu einer Zahl zusammengefügt werden. Diese Zahl und das Doppelte dieser Zahl soll ausgegeben werden!
- ************************************************************************************************/
-
-
 using System;
 
 namespace NumberExtractor
